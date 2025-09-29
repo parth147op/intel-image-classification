@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files (optional - if too big)
+*.h5
+*.keras
+*.pb
+
+# Data (don’t commit Kaggle dataset)
+data/
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+
+# OS / IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

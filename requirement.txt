@@ -1,0 +1,19 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+Pillow
+opencv-python
+
+# Deep Learning
+tensorflow>=2.12
+keras
+keras-tuner
+
+# Frontend
+streamlit
+
+# Utilities
+jupyter
