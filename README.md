@@ -88,9 +88,9 @@ The dataset consists of natural scenes categorized into six classes, and the goa
 
 ## 📸 Visualizations
 
-| Confusion Matrix | Grad-CAM Examples |
-|:-----------------|:-----------------|
-| ![Confusion Matrix](results/confusion_matrix.png) | ![Grad-CAM](results/gradcam_examples.png) |
+| Confusion Matrix |
+|:-----------------|
+| ![Confusion Matrix](results/Confusion_Matrix.png) |
 
 **Streamlit App Demo**
 
@@ -175,8 +175,7 @@ intel-image-classification/
 │   ├── app.py
 │   └── intel_cnn_best.h5
 ├── results/
-│   ├── confusion_matrix.png
-│   ├── gradcam_examples.png
+│   ├── confusion_matrix.png   
 │   └── streamlit_demo.png
 ├── requirements.txt
 ├── README.md
